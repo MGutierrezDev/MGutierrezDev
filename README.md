@@ -1,16 +1,31 @@
-### Hi I'm MGutierrez 👋
+<div align="center">
+<h1 align="center">Hi, I'm <a href="https://mgutierrez.es">MGutiérrez</a> 👋</h1>
+</div>
+<img src="">
 
-<!--
-**MGutierrezDev/MGutierrezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 👨‍💻Full Stack Developer👨‍💻 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## *Notable* projects
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">My web portfolio</h3>
+<div align="center">
+<a href="https://github.com/MGutierrezDev/portafolio-web" target="_blank"><img src="https://i.imgur.com/8aooJfV.jpg" width="400" alt="Portfolio"></a>
+<p>
+<a href="https://github.com/MGutierrezDev/portafolio-web" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>This repository contains the source code of my personal portfolio, where I showcase a selection of my previous projects and skills as a Full Stack developer.</p>
+</div>
+                                                                                      
+</td>                                                            
+</table>                                                                                 
+<br>
+
+### ⚙️ &nbsp;GitHub Analytics
