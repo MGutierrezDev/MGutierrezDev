@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://mgutierrez.es">MGutiérrez</a> 👋</h1>
 </div>
-<img src="">
+<img src="https://imgur.com/a/d1Mv3Qf">
 
 ## About me
 
