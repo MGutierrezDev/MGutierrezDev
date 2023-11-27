@@ -28,7 +28,7 @@
 <td width="50%">
 <h3 align="center">Transfer Games ~ Back</h3>
 <div align="center">
-<a href="https://github.com/MGutierrezDev/TransferGames_BACK" target="_blank"><img src="https://i.imgur.com/OMXfEcr.png" width="400" alt="TransferGames"></a>
+<a href="https://github.com/MGutierrezDev/TransferGames_BACK" target="_blank"><img src="https://i.imgur.com/tx45eCV.png" width="400" alt="TransferGames"></a>
 <p>
 <a href="https://github.com/MGutierrezDev/TransferGames_BACK" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
