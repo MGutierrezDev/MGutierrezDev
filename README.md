@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>This repository contains the backend source code for the TransferGames web application.</p>
+<p>This repository contains the backend source code for the TransferGames web application.</p><br>
 </div>                                                                              
 </td>
 </table>                                                                                 
